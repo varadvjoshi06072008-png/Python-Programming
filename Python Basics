@@ -1,0 +1,6 @@
+name=input("Enter the Name:")
+a,b=12,13
+percentage=float(input("enter you Percentage:"))
+print("Name is", name)
+print("age is", a,"and",b)
+print("percentage of your answer is", percentage)
