@@ -1,0 +1,5 @@
+A=10
+B=20
+print("Statement is:",A<=B and A<=B)
+print("Statement is:",A>B or A<=B)
+print("Statement is:",not A>=B)
