@@ -1,0 +1,6 @@
+# Age=int(input("enter your age")
+# Name=input("enter the name:")
+# print(type(Age))
+# print(type(Name))
+# After_Age= Age+12
+# print("age is ", Age, "after 12 years it is", After_Age)
