@@ -1,1 +1,8 @@
-
+Triple quote can be used for multiline comment
+# for single line comment
+Can use ctrl+` for terminal opening
+Types of Operands
+1. Arithmatic Operator
+2. Relational Operator
+3. Assignment Operator
+4. Logial Operators (And, or, not)
