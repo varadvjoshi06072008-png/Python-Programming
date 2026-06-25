@@ -1,0 +1,5 @@
+#1
+A=int(input("Enter Area:"))
+Area = A*A
+print("Area is", Area)
+#2
