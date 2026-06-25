@@ -9,3 +9,4 @@ Types of Operands
 Type Casting Syntax
 int()
 Add the value that you need to forcefully convert inside the brackets.
+Use typecasting for taking integer or float value from the user to mention what is the data type of the input.
