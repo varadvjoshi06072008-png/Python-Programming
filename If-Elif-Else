@@ -10,6 +10,7 @@
      print("Older than the antique for my house")
  else:
      print("U need to grow!!!")
+#2nd Code
 F=int(input("Enter the F:"))
 I=int(input("Enter the I:"))
 G=int(input("Enter the G"))
