@@ -1,12 +1,12 @@
-# Age=int(input("Enter your age:"))
-# Name=(input("Enter Name:"))
-# if(Age>=18):
-#     print("eligible for your pan card..!!!!\n Have fun...!!!\n")
-#     if(Age==18):
-#         print("Congragulations...!!!\n Just Turned 18..!")
-# elif(Age==17):
-#     print("You should wait..Its coming....!!!")
-# elif(Age>=100):
-#     print("Older than the antique for my house")
-# else:
-#     print("U need to grow!!!")
+ Age=int(input("Enter your age:"))
+ Name=(input("Enter Name:"))
+ if(Age>=18):
+     print("eligible for your pan card..!!!!\n Have fun...!!!\n")
+     if(Age==18):
+        print("Congragulations...!!!\n Just Turned 18..!")
+ elif(Age==17):
+     print("You should wait..Its coming....!!!")
+ elif(Age>=100):
+     print("Older than the antique for my house")
+ else:
+     print("U need to grow!!!")
