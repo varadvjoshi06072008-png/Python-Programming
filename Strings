@@ -1,0 +1,3 @@
+str1="Hello Varad "
+str2="How Are You?"
+print(str1+str2)
