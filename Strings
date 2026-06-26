@@ -1,3 +1,9 @@
 str1="Hello Varad "
 str2="How Are You?"
 print(str1+str2)
+str3=input("Enter The Number 1:")
+str4=input("Enter the Number 2:")
+print( "Total is:", str3+str4)
+print( "First is:", len(str3))
+print( "Second is:", len(str4))
+print( "Length is:", len(str3+str4))
