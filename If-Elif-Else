@@ -21,3 +21,8 @@ elif(I>=F and I>=G):
     print("I is Bigger:")
 else:
     print("G is Bigger:")
+Number=int(input("Enter the Number 1:"))
+if(Number % 7 ==0):
+    print("It is multiple of 7")
+else:
+    print("It is not multiple")
