@@ -10,3 +10,12 @@
      print("Older than the antique for my house")
  else:
      print("U need to grow!!!")
+F=int(input("Enter the F:"))
+I=int(input("Enter the I:"))
+G=int(input("Enter the G"))
+if(F>=I and F>=G):
+    print("F is Bigger:")
+elif(I>=F and I>=G):
+    print("I is Bigger:")
+else:
+    print("G is Bigger:")
