@@ -1,4 +1,5 @@
- Age=int(input("Enter your age:"))
+#1st Code
+Age=int(input("Enter your age:"))
  Name=(input("Enter Name:"))
  if(Age>=18):
      print("eligible for your pan card..!!!!\n Have fun...!!!\n")
