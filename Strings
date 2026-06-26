@@ -7,3 +7,13 @@ print( "Total is:", str3+str4)
 print( "First is:", len(str3))
 print( "Second is:", len(str4))
 print( "Length is:", len(str3+str4))
+str8="Varad is Happy"
+print(str8[2])
+print(str8[0:5])
+str="hello World"
+str.endswith("ld")
+str=str.capitalize()
+print(str.endswith("ld"))
+print(str.replace("Hello", "Namaskaram"))
+print(str.find("H"))
+print(str.count("l"))
