@@ -3,3 +3,23 @@ A=int(input("Enter Area:"))
 Area = A*A
 print("Area is", Area)
 #2
+marks=int(input("enter your marks"))
+name=input("enter name")
+print(len(name))
+print(name.replace(name, "not Name"))
+print(name)
+print(name.count("a"))
+print(name.find("a"))
+print(name.endswith("a"))
+name=name.capitalize()
+print(name)
+if(marks<=35):
+    print("You Are Failed")
+elif(marks>=80):
+    print("You got skills")
+elif(marks>=35 and marks<=50):
+    print("Being an Average is not Bad")
+elif(marks>=50 and marks<=80):
+    print("doing really good")
+else:
+    print("Study krr lee thodi")
