@@ -1,0 +1,3 @@
+Information=[input("enter your name"),int(input("Enter age")),input("enter your State") ]
+print(Information[0])
+Information[0]="Atharva"
