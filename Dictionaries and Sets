@@ -9,3 +9,10 @@ information={
     "Age":12,
     "Expertise":["Foreign Language","Product Lifecycle", "AI Interpretation", "Data Literacy"]
 }
+print(information["Jobs"])
+print(information["Jobs"]["Product Manager"])
+information["Name"]="Varad"
+print(information["Name"])
+print(len(information))
+print(information.keys)
+print(information.values)
