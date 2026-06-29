@@ -41,3 +41,7 @@ Marks.update({"Physics" : int(input("Enter Marks"))})
 Marks.update({"Chemistry":int(input("Enter Marks"))})
 Marks.update({"Bio": int(input("Enter Marks"))})
 print(Marks)
+#Program
+double={9}
+double.update(float(double{9.0}))
+print(double)
