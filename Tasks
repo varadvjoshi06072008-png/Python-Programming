@@ -23,3 +23,11 @@ elif(marks>=50 and marks<=80):
     print("doing really good")
 else:
     print("Study krr lee thodi")
+#Program
+int=int(input("enter input"))
+if(int>=1):
+    print("Positive")
+    elif(int<=-1):
+     print("Negative")
+ else:
+     print("Zero")
