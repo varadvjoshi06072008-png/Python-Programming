@@ -1,0 +1,11 @@
+information={
+    "Name":"Varaa",
+    "Jobs":{
+    "Product Manager":"TCS",
+    "Senior Product Manager" : "Open AI",
+    "Senior AI Product Manager" : "Open AI",
+    },
+    "Experience in Years": 8.25,
+    "Age":12,
+    "Expertise":["Foreign Language","Product Lifecycle", "AI Interpretation", "Data Literacy"]
+}
