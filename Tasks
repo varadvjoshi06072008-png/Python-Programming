@@ -31,3 +31,8 @@ if(int>=1):
      print("Negative")
  else:
      print("Zero")
+# Program
+Meanings={
+    "Table":["A Furniture","A list of facts and figures"],
+    "Cat":"A small animal",
+}
