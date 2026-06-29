@@ -36,3 +36,8 @@ Meanings={
     "Table":["A Furniture","A list of facts and figures"],
     "Cat":"A small animal",
 }
+Marks={ }
+Marks.update({"Physics" : int(input("Enter Marks"))})
+Marks.update({"Chemistry":int(input("Enter Marks"))})
+Marks.update({"Bio": int(input("Enter Marks"))})
+print(Marks)
